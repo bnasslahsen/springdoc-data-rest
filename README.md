@@ -14,5 +14,5 @@
   * spring data rest does not include this
   * attempting to use will return `HTTP 404`
 * schemas
-  * `chilProperty` is embedded where spring data rest will include link
+  * `childProperty` is embedded where spring data rest will include link
   * links are named `additionalProp1` etc rather than `self`, `childProperty`, etc
